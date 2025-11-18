@@ -1,6 +1,8 @@
 # Hi 👋, I'm Yooby Ruffieux (Gigandet)
 
-- 🌱 I'm currently learning **Spark**
+Welcome to my GitHub profile. You will find some projects that I am working on. 
+
+- 🌱 I'm currently learning **Streamlit**
 
 - 📫 How to reach me **yooby.ruffieux@gmail.com**
 
