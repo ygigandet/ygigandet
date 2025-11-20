@@ -1,12 +1,21 @@
-# Hi 👋, I'm Yooby Ruffieux (Gigandet)
+# Hi 👋 I am Yooby Ruffieux (Gigandet)
+### Data & Business Analyst
 
-Welcome to my GitHub! Here, you will find a collection of projects I have been working on — ranging from personal explorations to technical experiments and tools I have built to solve real problems. While I can't share work done for companies or under NDA, I am always expanding my public portfolio with projects that reflect my interests, learning, and growth as an analyst.
+Welcome to my GitHub! 
 
-- 👨🏻‍💻 I am currently working on a project to showcase my data cleaning skills. Stay tuned!
-  
-- 🌱 I'm currently learning **Streamlit**
+Here, you will find a collection of projects I have been working on — ranging from personal explorations to technical experiments and tools I have built to solve real problems. While I can't share work done for companies or under NDA, I am always expanding my public portfolio with projects that reflect my interests, learning, and growth as an analyst.
+
+I am currently open to job opportunities, so if my work aligns with what you are looking for, please feel free to reach out.
 
 <br>
+
+- 👨🏻‍💻 I am working on a project to showcase my data cleaning skills. Stay tuned!
+  
+- 🌱 I am currently learning **Streamlit**
+
+<br>
+
+## 🛠️ Contact Me
 
 <div align="center">
   <a href="yoobyruffieux@gmail.com">
@@ -17,15 +26,12 @@ Welcome to my GitHub! Here, you will find a collection of projects I have been w
   </a>
 </div>
 
-<hr>
+<br>
 
 ## 🛠️ Languages and Tools
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=python,R,mysql,postgres,bash,git" />
 </p>
-
-<hr>
