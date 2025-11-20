@@ -33,5 +33,5 @@ I am currently open to job opportunities, so if my work aligns with what you are
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,R,mysql,postgres,bash,git" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,bash,git" />
 </p>
