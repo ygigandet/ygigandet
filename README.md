@@ -19,7 +19,7 @@ I am currently open to job opportunities. If my work aligns with what you are lo
 
 <br>
 
-## 🛠️ Contact Me
+## ✉️ Contact Me
 
 <div align="center">
   <a href="mailto:yoobyruffieux@gmail.com">
