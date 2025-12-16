@@ -3,15 +3,19 @@
 
 Welcome to my GitHub! 
 
-Here, you will find a collection of projects I have been working on — ranging from personal explorations to technical experiments and tools I have built to solve real problems. While I can't share work done for companies or under NDA, I am always expanding my public portfolio with projects that reflect my interests, learning, and growth as an analyst.
+Here, you will find a collection of projects I have been working on — from personal explorations to technical experiments and tools I have built to solve real problems. While I can't share work done for companies or under NDA, I am always expanding my public portfolio with projects that reflect my interests, learning, and growth as an analyst.
 
-I am currently open to job opportunities, so if my work aligns with what you are looking for, feel free to reach out.
+I am currently open to job opportunities. If my work aligns with what you are looking for, feel free to reach out.
 
 <br>
 
-- 👨🏻‍💻 I am working on a project to showcase my data cleaning skills. Stay tuned!
-  
-- 🌱 I am currently learning **Streamlit**
+## 📂 Projects & Focus
+
+- [**Logistics Data Analysis**](https://github.com/ygigandet/logistics)  
+  I am currently working on this project to showcase my **data cleaning** and analytical skills. Stay tuned!
+
+- [**SRS App**](https://github.com/ygigandet/srs_app)  
+  I am building a **Streamlit** application to study programming languages while using a Spaced Repetition System.
 
 <br>
 
@@ -28,9 +32,7 @@ I am currently open to job opportunities, so if my work aligns with what you are
 
 <br>
 
-## 🛠️ Languages and Tools
-
-<br>
+## 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,bash,git" />
