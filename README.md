@@ -35,5 +35,5 @@ I am currently open to job opportunities. If my work aligns with what you are lo
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,bash,git" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,bash,git" />
 </p>
