@@ -9,16 +9,6 @@ I am currently open to job opportunities. If my work aligns with what you are lo
 
 <br>
 
-## 📂 Projects & Focus
-
-- [**Logistics Data Analysis**](https://github.com/ygigandet/logistics)  
-  I am currently working on this project to showcase my **data cleaning** and analytical skills. Stay tuned!
-
-- [**SRS App**](https://github.com/ygigandet/srs_app)  
-  I am building a **Streamlit** application to study programming languages while using a Spaced Repetition System.
-
-<br>
-
 ## ✉️ Contact Me
 
 <div align="center">
